@@ -28,15 +28,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-card-with-flexbox-BILQFbSE_g](https://www.frontendmentor.io/solutions/blog-card-with-flexbox-BILQFbSE_g)
+- Live Site URL: [https://blog-card-prev.netlify.app/](https://blog-card-prev.netlify.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - [React](https://reactjs.org/) - JS library
 - [Vite](https://vite.dev) - Next Generation Frontend Tooling
