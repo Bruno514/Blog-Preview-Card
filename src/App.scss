@@ -1,0 +1,14 @@
+@import "./assets/styles/colors.scss";
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 1;
+  height: 100vh;
+
+  * {
+    min-width: 0
+  }
+}
+
