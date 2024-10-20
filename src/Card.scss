@@ -31,7 +31,8 @@
     h1 {
       margin-top: 0;
       font-size: 22px;
-      &:hover {
+      &:hover,
+      &:active {
         color: $yellow;
         cursor: pointer;
       }
